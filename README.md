@@ -1,4 +1,4 @@
-# Orderful Assignment: Document Converter API
+# Assignment: Document Converter API
 
 ## Overview
 
@@ -29,12 +29,7 @@ This project implements an API for converting documents between three formats:
 
 ## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/kdandona/orderful-assignment.git
-   cd orderful-assignment
-   ```
+1. Clone the repository
 
 2. Install dependencies:
    ```bash
